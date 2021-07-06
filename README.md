@@ -51,7 +51,5 @@ samples, guidance on mobile development, and a full API reference.
 ## Themes screen
 <img width="567" alt="Screen Shot 2021-07-01 at 11 11 09 AM" src="https://user-images.githubusercontent.com/36344834/124110119-cf52f200-da5f-11eb-8f80-b97e7bfad614.png">
 
+[Yotube](https://www.youtube.com/watch?v=KuU6F7XqXec)
 
-<a href="https://www.youtube.com/watch?v=KuU6F7XqXec
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="app video" width="240" height="180" border="10" /></a>
