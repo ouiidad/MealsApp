@@ -51,5 +51,6 @@ samples, guidance on mobile development, and a full API reference.
 ## Themes screen
 <img width="567" alt="Screen Shot 2021-07-01 at 11 11 09 AM" src="https://user-images.githubusercontent.com/36344834/124110119-cf52f200-da5f-11eb-8f80-b97e7bfad614.png">
 
-== link video ==
-https://www.youtube.com/watch?v=KuU6F7XqXec
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=KuU6F7XqXec)
+
+
