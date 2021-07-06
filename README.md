@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 1. If you don't have Flutter SDK installed, please visit official [Flutter](https://flutter.dev/) site.
 2. Fetch latest source code from master branch.
 ```cmd
- git clone git@github.com:ouiidad/MealsApp.git
+ git clone https://github.com/ouiidad/MealsApp.git
 ```
 3. Using AndroidStudio to download the project
 4. Specifying the Gradle environment
