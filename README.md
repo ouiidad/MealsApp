@@ -16,17 +16,21 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## All the steps will be done using AndroidStudio.
-Copying the GitHub repository Url from the GitHub site
-Using AndroidStudio to download the project
-Specifying the Gradle environment
-Enabling the Dart language plugin
-Getting the Flutter packages
-Building the flutter app
-Running the flutter app on the emulator
+1. If you don't have Flutter SDK installed, please visit official [Flutter](https://flutter.dev/) site.
+2. Fetch latest source code from master branch.
+```cmd
+ git clone git@github.com:ouiidad/MealsApp.git
+```
+3. Using AndroidStudio to download the project
+4. Specifying the Gradle environment
+5. Enabling the Dart language plugin
+6. Getting the Flutter packages
+7. Building the flutter app
+8. Running the flutter app on the emulator
 
 
 ## on boarding screen
-<img width="567" alt="Screen Shot 2021-07-01 at 11 07 47 AM" src="https://user-images.githubusercontent.com/36344834/124109946-987cdc00-da5f-11eb-8279-b2a67e0586e8.png">
+<img width="567" alt="Screen Shot 2021-07-01 at 11 07 47 AM"  src="https://user-images.githubusercontent.com/36344834/124109946-987cdc00-da5f-11eb-8279-b2a67e0586e8.png">
 
 ## Categories screen
 <img width="567" alt="Screen Shot 2021-07-01 at 11 09 43 AM" src="https://user-images.githubusercontent.com/36344834/124109975-a3d00780-da5f-11eb-903b-e5e91eda7574.png">
