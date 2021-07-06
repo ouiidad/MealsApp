@@ -21,12 +21,13 @@ samples, guidance on mobile development, and a full API reference.
 ```cmd
  git clone https://github.com/ouiidad/MealsApp.git
 ```
-3. Using AndroidStudio to download the project
-4. Specifying the Gradle environment
-5. Enabling the Dart language plugin
-6. Getting the Flutter packages
-7. Building the flutter app
-8. Running the flutter app on the emulator
+3. Run the app with Android Studio or Visual Studio. Or the command line.
+```cmd
+ flutter pub get
+ flutter run
+```
+4. Enabling the Dart language plugin
+5. Running the flutter app on the emulator
 
 
 ## on boarding screen
